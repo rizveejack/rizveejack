@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **NextJs, React , TypeScript**
 
-- 📫 How to reach me **jack@itprix.com**
+- 📫 How to Hire me **https://www.upwork.com/freelancers/~0171a74f5373287476**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
