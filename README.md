@@ -1,12 +1,10 @@
 
-
-
 <h1 align="center">Hi 👋, I'm Subbir Ahamed</h1>
-<h3 align="center">A passionate Headless Wordpress developer from Bangladesh</h3>
+<h3 align="center">A passionate Headless Wordpress ecommerce developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Headless Wordpress**
+- 🔭 I’m currently working on **Headless Ecommerce and Flutter App**
 
-- 🌱 I’m currently learning **Nextjs, React,TypeScript**
+- 🌱 I’m currently learning **Nextjs,TypeScript,Flutter**
 
 - 👯 I’m looking to collaborate on **Headless Wordpress**
 
@@ -14,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rizveejack/](https://github.com/rizveejack/)
 
-- 💬 Ask me about **NextJs, React , TypeScript**
+- 💬 Ask me about **NextJs, React , TypeScript, Flutter**
 
 - 📫 How to Hire me **https://www.upwork.com/freelancers/~0171a74f5373287476**
 
