@@ -1,4 +1,6 @@
-<center><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizveejack&show_icons=true&locale=en&layout=compact" alt="rizveejack" /></center>
+
+
+
 <h1 align="center">Hi 👋, I'm Subbir Ahamed</h1>
 <h3 align="center">A passionate Headless Wordpress developer from Bangladesh</h3>
 
@@ -25,6 +27,17 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizveejack&show_icons=true&locale=en" alt="rizveejack" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizveejack&" alt="rizveejack" /></p>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizveejack&show_icons=true&locale=en&layout=compact" alt="rizveejack" />
+            </td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizveejack&show_icons=true&locale=en" alt="rizveejack" />
+            </td>
+            <td>
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizveejack&" alt="rizveejack" />
+            </td>
+        </tr>
+    </tbody>
+</table>
