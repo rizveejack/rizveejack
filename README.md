@@ -1,4 +1,4 @@
-<center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizveejack&show_icons=true&locale=en&layout=compact" alt="rizveejack" /></center>
+<div><img align="center" width="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizveejack&show_icons=true&locale=en&layout=compact" alt="rizveejack" /></div>
 <h1 align="center">Hi 👋, I'm Subbir Ahamed</h1>
 <h3 align="center">A passionate Headless Wordpress developer from Bangladesh</h3>
 
