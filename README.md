@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Nextjs,TypeScript,Flutter**
 
-- 👯 I’m looking to collaborate on **Headless Wordpress**
+- 👯 I’m looking to collaborate on **Headless Woocommer Project**
 
-- 🤝 I’m looking for help with **Headless Wordpress**
+- 🤝 I’m looking for help with **Headless Wordpress plugin development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rizveejack/](https://github.com/rizveejack/)
 
