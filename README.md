@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Headless Ecommerce and Flutter App**
 
-- 🌱 I’m currently learning **Nextjs,TypeScript,Flutter**
+- 🌱 I’m currently learning **Nextjs,TypeScript,Flutter,Hydrogen**
 
 - 👯 I’m looking to collaborate on **Headless Woocommer Project**
 
