@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs,TypeScript,Flutter,Hydrogen**
 
-- 👯 I’m looking to collaborate on **Headless Woocommer Project**
+- 👯 I’m looking to collaborate on **Headless Woocommer & Shopify Projects**
 
 - 🤝 I’m looking for help with **Headless Wordpress plugin development**
 
