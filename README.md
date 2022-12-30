@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="font-size:30px">Hi 👋, I'm Subbir Ahamed</h1>
-<h3 align="center">A passionate Headless WooCommerce developer from Bangladesh</h3>
+<h3 align="center">A passionate Headless E-Commerce developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Headless Ecommerce and Flutter App**
 
