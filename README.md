@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Headless Wordpress plugin development**
 
-- 👨‍💻 All of my projects are available at [https://itprix.com/](https://itprix.com/)
+- 👨‍💻 All of my projects are available at [https://codetogrow.com/](https://codetogrow.com/)
 
 - 💬 Ask me about **NextJs, React , TypeScript, Flutter**
 
