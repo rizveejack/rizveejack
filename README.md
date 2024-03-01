@@ -1,19 +1,19 @@
 
 
 <h1 align="center" style="font-size:30px">Hi 👋, I'm Subbir Ahamed</h1>
-<h3 align="center">A passionate Headless E-Commerce developer from Bangladesh</h3>
+<h3 align="center">A passionate NextJs developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Headless Ecommerce and Flutter App**
+- 🔭 I’m currently working on **Headless Shopify and Headless WordPress**
 
-- 🌱 I’m currently learning **Nextjs,TypeScript,Flutter,Hydrogen**
+- 🌱 I’m currently learning **Nextjs,TypeScript,TailWindCSS,Hydrogen**
 
 - 👯 I’m looking to collaborate on **Headless Woocommer & Shopify Projects**
 
-- 🤝 I’m looking for help with **Headless Wordpress plugin development**
+- 🤝 I’m looking for help with **Headless WordPress plugin development**
 
 - 👨‍💻 All of my projects are available at [https://codetogrow.com/](https://codetogrow.com/)
 
-- 💬 Ask me about **NextJs, React , TypeScript, Flutter**
+- 💬 Ask me about **NextJs, React, TypeScript, Shopify,WooCommerce**
 
 - 📫 How to Hire me **https://www.upwork.com/workwith/subbirahamed**
 
